@@ -1,0 +1,10 @@
+Fitness Log:
+
+HELLO Karen! Here is your Fitness log for today!
+12/19/16
+Exercise: running
+Duration (mins): 30
+HELLO Bob! Here is your Fitness log for today!
+13/13/67
+Ounces of Water: 89
+HELLO null! Here is your Fitness log for today!
